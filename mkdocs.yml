@@ -15,6 +15,7 @@ nav:
   - MQTT－連接創客雲:
       - BBC micro:bit: ch4_connect/microbit/connect_microbit.md
       - App Inventor 2: ch4_connect/ai2/connect_ai2.md
+      - Arduino: ch4_connect/arduino/connect_arduino.md
       - Python: ch4_connect/python/connect_python.md
       - M5Stack: ch4_connect/m5stack/connect_m5stack.md
       - Kittenbot KOI: ch4_connect/KOI/connect_KOI.md
@@ -22,12 +23,14 @@ nav:
       - 創客雲: ch5_publish/makercloud/makercloud.md
       - BBC micro:bit: ch5_publish/microbit/publish_microbit.md
       - App Inventor 2: ch5_publish/ai2/publish_ai2.md
+      - Arduino: ch5_publish/arduino/publish_arduino.md
       - Python: ch5_publish/python/publish_python.md
       - M5Stack: ch5_publish/m5stack/publish_m5stack.md
       - Kittenbot KOI: ch5_publish/KOI/publish_KOI.md
   - MQTT－訂閱:
       - BBC micro:bit: ch6_subscribe/microbit/subscribe_microbit.md
       - App Inventor 2: ch6_subscribe/ai2/subscribe_ai2.md
+      - Arduino: ch6_subscribe/arduino/subscribe_arduino.md
       - Python: ch6_subscribe/python/subscribe_python.md
       - M5Stack: ch6_subscribe/m5stack/subscribe_m5stack.md
       - Kittenbot KOI: ch6_subscribe/KOI/subscribe_KOI.md

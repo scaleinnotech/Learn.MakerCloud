@@ -5,7 +5,7 @@
 [TOC]
 
 ## 訂閱函數
-在創客雲 AI2 extension中，有不同類型的訂閱函數。
+在Python創客雲MakerCloudMQTT中，有不同類型的訂閱函數。
 
 #### MakerCloudMQTT.subscribe()
 訂閱創客雲主題
