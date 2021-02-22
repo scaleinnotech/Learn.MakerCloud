@@ -47,7 +47,7 @@
 
 1. 新增專案
 2. 加入創客雲KittenWiFi擴展  
-   [https://github.com/maxwong-scale/pxt-makercloud-V2]()
+   [https://github.com/scaleinnotech/pxt-makercloud-V2]()
 3. 當啟動時:  
    更新KittenWiFi接口、連接WiFi及創客雲MQTT
 4. 當按鈕「A」被按下:  
@@ -88,7 +88,7 @@
 
 1. 新增專案
 2. 加入創客雲KittenWiFi擴展  
-   [https://github.com/maxwong-scale/pxt-makercloud-V2]()
+   [https://github.com/scaleinnotech/pxt-makercloud-V2]()
 3. 當啟動時:  
    更新KittenWiFi接口、連接WiFi及創客雲MQTT
 4. 當按鈕「A」被按下:  
